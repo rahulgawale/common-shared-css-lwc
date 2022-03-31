@@ -1,0 +1,24 @@
+.my-shared-color-primary {
+	background-color: #006778;
+	color: white;
+}
+
+.my-shared-color-secondary {
+	background-color: #0093ab;
+	color: white;
+}
+
+.my-shared-color-accent {
+	color: black;
+	background-color: #ffd124;
+}
+
+.my-shared-header {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.my-shared-header_small {
+	font-size: 15px;
+	font-weight: bold;
+}

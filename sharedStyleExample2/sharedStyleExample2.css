@@ -1,0 +1,6 @@
+@import "c/sharedStyles";
+
+.my-shared-color-secondary {
+	background-color: rgb(228, 155, 37);
+	color: black;
+}

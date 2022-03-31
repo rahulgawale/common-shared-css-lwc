@@ -1,0 +1,12 @@
+@import "c/sharedStyles";
+
+/* You can override the common shared styles here.
+    
+Example: this is my class from common shared css my-shared-color-secondary
+
+.my-shared-color-secondary {
+	background-color: rgb(228, 155, 37);
+	color: black;
+}
+*/
+/* add other styles specific to your component */
